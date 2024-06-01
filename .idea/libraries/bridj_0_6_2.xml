@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="bridj-0.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/bridj-0.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/gst1-java-core-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/gstreamer-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/slf4j-nop-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/video.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SetCardRecognition/lib/webcam-capture-0.3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
